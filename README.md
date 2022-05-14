@@ -1,4 +1,9 @@
- Crypto Notification
+Joseph Oju - ACE22140009
+-----------
+ACETEL ATI903 Mini Project
+-----------
+
+Crypto Notification
 --------
 Crypto Notification Generation script with Python
 This script sends notification alerts every 10mins to your phone, if Bitcoin price drop is below the given price check (30000)
