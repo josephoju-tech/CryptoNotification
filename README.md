@@ -1,6 +1,6 @@
-Joseph Oju - ACE22140009
+Joseph Oju
 -----------
-ACETEL ATI903 Mini Project
+ATI Mini Project
 -----------
 
 Crypto Notification
